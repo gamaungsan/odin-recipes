@@ -1,0 +1,49 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+p {
+    font-size: 16px;
+}
+
+
+.title {
+    background-color:darkblue;
+    color: white;
+    font-weight: bold;
+}
+
+.heading {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+.ingredients {
+    color: darkcyan;
+}
+
+#subheading {
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 520;
+    background-color: transparent;
+}
+
+.recipes {
+    color: blueviolet;
+}
+
+#bigtitle {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+.instructions {
+    color: brown;
+    font-weight: 700;
+}
