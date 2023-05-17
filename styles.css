@@ -35,15 +35,27 @@ img {
 
 .recipes {
     color: blueviolet;
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 15px;
+    text-align: center;
 }
 
 #bigtitle {
     background-color: red;
     color: white;
     font-weight: bold;
+    border: solid;
+    border-color:rgb(85, 19, 19);
+    padding: 10px;
 }
 
 .instructions {
     color: brown;
     font-weight: 700;
+}
+
+.recipelist {
+    background-color:cornsilk
 }
